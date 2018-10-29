@@ -1,3 +1,3 @@
 # resume
-This repository includes my CV as both word and pdf document.
+The following repository includes my CV in both docx and pdf formats .
 <p>If you like my template, you can absolutely feel free to download and use it for your own:)
